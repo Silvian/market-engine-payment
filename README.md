@@ -1,2 +1,1 @@
-# market-engine-payment
-Market Engine Payment Service
+# Market Engine Payment Service
